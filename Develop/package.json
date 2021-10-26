@@ -1,13 +1,21 @@
 {
-  "name": "note-taker",
+  "name": "Note_Taker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bindi-v/Note_Taker.git"
+  },
+  "keywords": [],
+  "author": "bindi-v",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bindi-v/Note_Taker/issues"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "uniq": "^1.0.1",

@@ -85,3 +85,5 @@ If you have any questions, please reach out to my Github.
 * [The URL of the functional, deployed application on Heroku.](https://blooming-brook-52468.herokuapp.com/)
 
 * [The URL of the GitHub repository](https://github.com/bindi-v/Note_Taker)
+
+#### Thank you for visiting my Github!
