@@ -53,11 +53,19 @@ The following images show the web application's appearance and functionality:
 
 The following necessary dependencies must be installed to run the application.
 
-  connect to an Express.js back end, db.json, inquirer and fs
+  Express.js back end, db.json, inquirer and fs
+In Terminal run command in root dir to install dependencies -
+
+```
+npm install or npm i
+```
 
 ## Usage
 
- The application can invoked by node server.js command in terminal.
+ The application can invoked by node server.js command in root dir from terminal.
+ ```
+ npm start or node server.js
+ ```
 
 ## License
 
@@ -82,7 +90,7 @@ If you have any questions, please reach out to my Github.
 
 ### Deployed link
 
-* [The URL of the functional, deployed application on Heroku.](https://blooming-brook-52468.herokuapp.com/)
+* [The URL of the functional, deployed application on Render!](https://note-taker-hxce.onrender.com)
 
 * [The URL of the GitHub repository](https://github.com/bindi-v/Note_Taker)
 
